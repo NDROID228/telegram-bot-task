@@ -52,6 +52,7 @@ const Form = () => {
 
   return (
     <main>
+        <p>help</p>
       <div className={"form"}>
         <h3>Введите ваши данные</h3>
         <input
