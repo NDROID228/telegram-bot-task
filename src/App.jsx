@@ -7,7 +7,7 @@ function App() {
     tg.ready();
   }, []);
   const onClose = () => {
-    tg.close;
+    tg.close();
   };
   return (
     <main>
